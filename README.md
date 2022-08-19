@@ -1,5 +1,5 @@
 # [UCDPA_SathakKapoor](https://github.com/SarthakKapoor1/UCDPA_SathakKapoor)
-Final Project for June Certificate in Introductory Data Analysis by Sarthak Kapoor
+Final Project for June Certificate in Introductory Data Analysis by [Sarthak Kapoor](https://github.com/SarthakKapoor1)
 
 ## [WORLD HAPPINESS INDEX REPORT](https://worldhappiness.report/) <br>
 The data used in this visualization come from the [Gallup World Poll (GWP)](https://www.gallup.com/analytics/318875/global-research.aspx), which ranks countries based on answers to the main life evaluation question asked in the poll. This question is called the Cantril ladder, and asks respondents to think of a ladder, where the best possible life would be a 10, and the worst a 0. They then rate their own lives on that 0 to 10 scale. This is also called ***Ladder Score***. This data is available on [kaggle.com](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021) <br>
