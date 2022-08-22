@@ -17,7 +17,7 @@ The nations are compared to a hypothetical country called ***Dystopia***. Dystop
 After importing a few libraries, I was able to prepare, analyse, and visualize the data, post which was also able to gather good insights. <br>
 The project also touches on how Machine Learning could be implemented for the same. <br>
 
-Data takn from: <br>
+Data taken from: <br>
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report-2021.csv
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
 
