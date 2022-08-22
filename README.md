@@ -21,4 +21,4 @@ Data taken from: <br>
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report-2021.csv
 * https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021?select=world-happiness-report.csv
 
---------------------------------------------------------------------END OF DOCUMENT-------------------------------------------------------------------
+------------------------END OF DOCUMENT-------------------------
