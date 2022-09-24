@@ -1,5 +1,4 @@
-# [UCDPA_SathakKapoor](https://github.com/SarthakKapoor1/UCDPA_SathakKapoor)
-Final Project for June Certificate in Introductory Data Analysis by [Sarthak Kapoor](https://github.com/SarthakKapoor1)
+# [SathakKapoor](https://github.com/SarthakKapoor1/UCDPA_SathakKapoor)
 
 ## [WORLD HAPPINESS INDEX REPORT](https://worldhappiness.report/) <br>
 This report covers the data from the World Happiness Index report, it includes the data from the Gallup World Poll (GWP). This data is available on [kaggle.com](https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2021) <br>
